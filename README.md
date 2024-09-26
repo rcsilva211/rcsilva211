@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🚀 Current status: Masters in Communication and Web Technologies - 1st year<br>🌐 Projects: Frontend oriented development.<br>📘 Learning: Vanilla JS and looking forward to TypeScript and React.js<br>🔍 What my role is: Be able to bring whatever the designer made to life! <br>🌟 Fun fact: I might look like I don't do stuff, but it still shows up done before its due time, hehe
 
 
@@ -11,6 +11,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rcsilva211&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
