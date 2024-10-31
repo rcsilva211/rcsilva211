@@ -1,5 +1,5 @@
 # About Me:
-🚀 Current status: Masters in Communication and Web Technologies - 1st year<br>🌐 Projects: Frontend oriented development.<br>📘 Learning: Vanilla JS and looking forward to TypeScript and React.js<br>🔍 What my role is: Be able to bring whatever the designer made to life! <br>🌟 Fun fact: I might look like I don't do stuff, but it still shows up done before its due time, hehe
+🚀 Current status: Masters in Communication and Web Technologies - 1st year<br>🌐 Projects: Frontend oriented development.<br>📘 Learning: React.js and looking forward to TypeScript and Vue.Js<br>🔍 What my role is: Be able to bring whatever the designer made to life! <br>🌟 Fun fact: I might look like I don't do stuff, but it still shows up done before its due time, hehe
 
 
 
