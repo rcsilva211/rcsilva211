@@ -1,5 +1,5 @@
 # About Me:
-🚀 Current status: Masters in Communication and Web Technologies - 1st year<br>🌐 Projects: Frontend oriented development.<br>📘 Learning: Server-side Node.js and looking forward to Postgres developments!<br>🔍 What my role is: Be able to bring whatever the designer made to life! <br>🌟 Fun fact: I might look like I don't do stuff, but it still shows up done before its due time, hehe
+🚀 Current status: Masters in Communication and Web Technologies - 1st year<br>🌐 Projects: Frontend oriented development.<br>📘 Learning: The back-end part of web apps. Maybe if I stop taking showers I'll get better at backend...<br>🔍 What my role is: Be able to bring whatever the designer made to life! <br>🌟 Fun fact: I might look like I don't do stuff, but it still shows up done before its due time, hehe
 
 
 
