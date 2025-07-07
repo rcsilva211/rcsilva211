@@ -19,8 +19,7 @@
 
 
 # 📖 Currently Learning:  
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+Repo organization and global frontend repo setup
 
 
 
